@@ -51,7 +51,7 @@ Create a `.env` file:
 
 ```dotenv
 TAVILY_API_KEY=your_tavily_key
-PYDANTIC_API_KEY=your_pydantic_key
+GROQ_API_KEY=your_groq_key
 ```
 
 ### 5. Run the App Locally
